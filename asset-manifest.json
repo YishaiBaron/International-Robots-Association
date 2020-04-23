@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/International-Robots-Association/static/css/main.2b50a5dd.chunk.css",
+    "main.js": "/International-Robots-Association/static/js/main.24326c47.chunk.js",
+    "main.js.map": "/International-Robots-Association/static/js/main.24326c47.chunk.js.map",
+    "runtime-main.js": "/International-Robots-Association/static/js/runtime-main.ad2b04f1.js",
+    "runtime-main.js.map": "/International-Robots-Association/static/js/runtime-main.ad2b04f1.js.map",
+    "static/js/2.61452a99.chunk.js": "/International-Robots-Association/static/js/2.61452a99.chunk.js",
+    "static/js/2.61452a99.chunk.js.map": "/International-Robots-Association/static/js/2.61452a99.chunk.js.map",
+    "index.html": "/International-Robots-Association/index.html",
+    "precache-manifest.8c90231f9c34a786a915a0f197846ec2.js": "/International-Robots-Association/precache-manifest.8c90231f9c34a786a915a0f197846ec2.js",
+    "service-worker.js": "/International-Robots-Association/service-worker.js",
+    "static/css/main.2b50a5dd.chunk.css.map": "/International-Robots-Association/static/css/main.2b50a5dd.chunk.css.map",
+    "static/js/2.61452a99.chunk.js.LICENSE.txt": "/International-Robots-Association/static/js/2.61452a99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad2b04f1.js",
+    "static/js/2.61452a99.chunk.js",
+    "static/css/main.2b50a5dd.chunk.css",
+    "static/js/main.24326c47.chunk.js"
+  ]
+}

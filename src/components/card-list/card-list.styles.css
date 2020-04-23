@@ -1,0 +1,22 @@
+.card-list {
+    
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
+
+    
+    }
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+  @media (max-width: 900px) {
+    .card-list { grid-template-columns: 1fr 1fr 1fr;
+        box-sizing: border-box;
+
+    }        
+  }
